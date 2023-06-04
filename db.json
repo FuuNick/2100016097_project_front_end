@@ -7,93 +7,89 @@
     {
       "id": 2,
       "nama": "Minuman"
-    },
-    {
-      "id": 3,
-      "nama": "Cemilan"
     }
   ],
   "products": [
     {
       "id": 1,
       "kode": "K-01",
-      "nama": "Sate Ayam",
-      "harga": 16000,
+      "nama": "Caramel Macchiato",
+      "harga": 72000,
       "is_ready": true,
-      "gambar": "sate-ayam.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Caramel Macchiato.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 2,
       "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
-      "harga": 14000,
+      "nama": "Teavana Iced Tea",
+      "harga": 31000,
       "is_ready": true,
-      "gambar": "nasi-goreng-telor.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Teavana Iced Tea.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 3,
       "kode": "K-03",
-      "nama": "Nasi Rames",
-      "harga": 12000,
+      "nama": "Hazelnut Signature Chocolate",
+      "harga": 72000,
       "is_ready": true,
-      "gambar": "nasi-rames.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Hazelnut Signature Chocolate.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 4,
       "kode": "K-04",
-      "nama": "Lontong Opor Ayam",
-      "harga": 18000,
+      "nama": "Double Chocolate Cream Frappuccino",
+      "harga": 69000,
       "is_ready": true,
-      "gambar": "lontong-opor-ayam.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Double Chocolate Cream Frappuccino.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 5,
       "kode": "K-05",
-      "nama": "Mie Goreng",
-      "harga": 13000,
+      "nama": "Caramel Frappuccino",
+      "harga": 63000,
       "is_ready": true,
-      "gambar": "mie-goreng.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Caramel Frappuccino.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 6,
       "kode": "K-06",
-      "nama": "Bakso",
-      "harga": 10000,
+      "nama": "Vanilla Sweet Cream Cold Brew",
+      "harga": 72000,
       "is_ready": true,
-      "gambar": "bakso.jpg",
-      "category" : {
-        "id": 1,
-        "nama": "Makanan"
+      "gambar": "Vanilla Sweet Cream Cold Brew.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
       }
     },
     {
       "id": 7,
       "kode": "K-07",
-      "nama": "Mie Ayam Bakso",
-      "harga": 14000,
+      "nama": "Smoked Beef Mushroom & Cheese Panini",
+      "harga": 56000,
       "is_ready": true,
-      "gambar": "mie-ayam-bakso.jpg",
-      "category" : {
+      "gambar": "Smoked Beef Mushroom & Cheese Panini.jpg",
+      "category": {
         "id": 1,
         "nama": "Makanan"
       }
@@ -101,88 +97,104 @@
     {
       "id": 8,
       "kode": "K-08",
-      "nama": "Pangsit 6 pcs",
-      "harga": 5000,
+      "nama": "Classic Dark Chocolate",
+      "harga": 46000,
       "is_ready": true,
-      "gambar": "pangsit.jpg",
-      "category" :  {
-        "id": 3,
-        "nama": "Cemilan"
+      "gambar": "Classic Dark Chocolate.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
       }
     },
     {
       "id": 9,
       "kode": "K-09",
-      "nama": "Kentang Goreng",
-      "harga": 5000,
+      "nama": "Scarlet Velvet Cake",
+      "harga": 46000,
       "is_ready": true,
-      "gambar": "kentang-goreng.jpg",
-      "category" :  {
-        "id": 3,
-        "nama": "Cemilan"
+      "gambar": "Scarlet Velvet Cake.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
       }
     },
     {
       "id": 10,
-      "kode": "K-010",
-      "nama": "Cheese Burger",
-      "harga": 15000,
+      "kode": "K-10",
+      "nama": "Klappertaart Cake",
+      "harga": 42000,
       "is_ready": true,
-      "gambar": "cheese-burger.jpg",
-      "category" :  {
-        "id": 3,
-        "nama": "Cemilan"
+      "gambar": "Klappertaart Cake.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
       }
     },
     {
       "id": 11,
-      "kode": "K-011",
-      "nama": "Coffe Late",
-      "harga": 15000,
+      "kode": "K-11",
+      "nama": "Tuna Cheese Whole Wheat Panini",
+      "harga": 54000,
       "is_ready": true,
-      "gambar": "coffe-late.jpg",
-      "category" : {
-        "id": 2,
-        "nama": "Minuman"
+      "gambar": "Tuna Cheese Whole Wheat Panini.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
       }
     },
     {
       "id": 12,
-      "kode": "K-012",
-      "nama": "Es Jeruk",
-      "harga": 7000,
+      "kode": "K-12",
+      "nama": "Espresso Brownies",
+      "harga": 33000,
       "is_ready": true,
-      "gambar": "es-jeruk.jpg",
-      "category" : {
-        "id": 2,
-        "nama": "Minuman"
-      }
-    },
-    {
-      "id": 13,
-      "kode": "K-013",
-      "nama": "Es Teh",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "es-teh.jpg",
-      "category" : {
-        "id": 2,
-        "nama": "Minuman"
-      }
-    },
-    {
-      "id": 14,
-      "kode": "K-014",
-      "nama": "Teh Hangat",
-      "harga": 3000,
-      "is_ready": true,
-      "gambar": "teh-hangat.jpg",
-      "category" : {
-        "id": 2,
-        "nama": "Minuman"
+      "gambar": "Espresso Brownies.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
       }
     }
   ],
-  "keranjangs": [],
-  "pesanans": []
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "total_harga": 46000,
+      "product": {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Classic Dark Chocolate",
+        "harga": 46000,
+        "is_ready": true,
+        "gambar": "Classic Dark Chocolate.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 1
+    }
+  ],
+  "pesanans": [
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 1
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 2
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "FuNick",
+      "password": "admin"
+    }
+  ]
 }
